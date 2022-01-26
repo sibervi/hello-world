@@ -4,5 +4,12 @@ I'm 24 years old
 I love yellow 
 I look good on yellow 
 
+<<<<<<< HEAD
 
 I love Avatar the Last Airbander that's my favorite cartoon 
+=======
+I was born on a Saturday 2:40am 
+My birthday is on February 8th
+
+I served my mission on Juiz de Fora-MG
+>>>>>>> 53d7bfcce40bc59bfe58873dc04eca38f6bcf327
